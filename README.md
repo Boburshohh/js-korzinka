@@ -1,2 +1,2 @@
-# js-korzinka
-JSda yasalga sodda korzinka
+# js_practise_starter_file
+JavaScript tutorial for begginers starter file
